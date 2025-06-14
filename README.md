@@ -76,6 +76,3 @@ Legal & Tech Enthusiast | Front-End Developer
 📧 rebifaizahedwardakpa@gmail.com
 
 ---
-
-Let me know if you want me to help create or upload the `README.md` to GitHub for you.
-
